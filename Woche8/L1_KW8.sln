@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L1U2_Konsolenandendung", "L1U2_Konsolenandendung\L1U2_Konsolenandendung.csproj", "{43CFC8C2-934F-49F4-8D57-97499A12DFFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L1U3_WPFAnwendung", "L1U3_WPFAnwendung\L1U3_WPFAnwendung.csproj", "{BC084B06-DF89-4A52-944A-470443728670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43CFC8C2-934F-49F4-8D57-97499A12DFFA}.Debug|x86.ActiveCfg = Debug|x86
+		{43CFC8C2-934F-49F4-8D57-97499A12DFFA}.Debug|x86.Build.0 = Debug|x86
+		{43CFC8C2-934F-49F4-8D57-97499A12DFFA}.Release|x86.ActiveCfg = Release|x86
+		{43CFC8C2-934F-49F4-8D57-97499A12DFFA}.Release|x86.Build.0 = Release|x86
+		{BC084B06-DF89-4A52-944A-470443728670}.Debug|x86.ActiveCfg = Debug|x86
+		{BC084B06-DF89-4A52-944A-470443728670}.Debug|x86.Build.0 = Debug|x86
+		{BC084B06-DF89-4A52-944A-470443728670}.Release|x86.ActiveCfg = Release|x86
+		{BC084B06-DF89-4A52-944A-470443728670}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

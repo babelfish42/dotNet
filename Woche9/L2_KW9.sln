@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2U2_StrongNamed", "L2U2_StrongNamed\L2U2_StrongNamed.csproj", "{47DFE464-DAF9-4AB8-8E90-AD77CA33E38C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2U4_ArraySolution", "L2U4_ArraySolution\L2U4_ArraySolution.csproj", "{D696A364-FCC9-423E-917C-F7E544352D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2U5_StringSolution", "L2U5_StringSolution\L2U5_StringSolution.csproj", "{E6652617-BFC7-4D2C-8847-CB14D33EF439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2U3_InchConverter", "L2U3_InchConverter\L2U3_InchConverter.csproj", "{12C28DDC-873F-4A7B-B522-3FE55621E5AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47DFE464-DAF9-4AB8-8E90-AD77CA33E38C}.Debug|x86.ActiveCfg = Debug|x86
+		{47DFE464-DAF9-4AB8-8E90-AD77CA33E38C}.Debug|x86.Build.0 = Debug|x86
+		{47DFE464-DAF9-4AB8-8E90-AD77CA33E38C}.Release|x86.ActiveCfg = Release|x86
+		{47DFE464-DAF9-4AB8-8E90-AD77CA33E38C}.Release|x86.Build.0 = Release|x86
+		{D696A364-FCC9-423E-917C-F7E544352D2E}.Debug|x86.ActiveCfg = Debug|x86
+		{D696A364-FCC9-423E-917C-F7E544352D2E}.Debug|x86.Build.0 = Debug|x86
+		{D696A364-FCC9-423E-917C-F7E544352D2E}.Release|x86.ActiveCfg = Release|x86
+		{D696A364-FCC9-423E-917C-F7E544352D2E}.Release|x86.Build.0 = Release|x86
+		{E6652617-BFC7-4D2C-8847-CB14D33EF439}.Debug|x86.ActiveCfg = Debug|x86
+		{E6652617-BFC7-4D2C-8847-CB14D33EF439}.Debug|x86.Build.0 = Debug|x86
+		{E6652617-BFC7-4D2C-8847-CB14D33EF439}.Release|x86.ActiveCfg = Release|x86
+		{E6652617-BFC7-4D2C-8847-CB14D33EF439}.Release|x86.Build.0 = Release|x86
+		{12C28DDC-873F-4A7B-B522-3FE55621E5AD}.Debug|x86.ActiveCfg = Debug|x86
+		{12C28DDC-873F-4A7B-B522-3FE55621E5AD}.Debug|x86.Build.0 = Debug|x86
+		{12C28DDC-873F-4A7B-B522-3FE55621E5AD}.Release|x86.ActiveCfg = Release|x86
+		{12C28DDC-873F-4A7B-B522-3FE55621E5AD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

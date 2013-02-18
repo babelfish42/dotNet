@@ -1,0 +1,12 @@
+﻿<Window x:Class="L13U1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="L13U1" MinHeight="200" Height="200" Width="350" WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen">
+    <WrapPanel x:Name="container" MinHeight="170">
+        <TextBox MinHeight="135" Foreground="White" HorizontalAlignment="Center" Name="txtText" VerticalAlignment="Top" MinWidth="300" Width="{Binding ElementName=container, Path=ActualWidth}" Background="Blue" />
+            <WrapPanel HorizontalAlignment="Center">
+                <Button Content="Save" Height="23" HorizontalAlignment="Center" Name="btnSave" VerticalAlignment="Top" Width="75" Click="btnSave_Click" />
+                <Button Content="Load" Height="23" HorizontalAlignment="Center" Name="btnLoad" VerticalAlignment="Top" Width="75" Click="btnLoad_Click" />
+            </WrapPanel>
+    </WrapPanel>
+</Window>

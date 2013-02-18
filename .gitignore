@@ -1,0 +1,17 @@
+TestResults
+bin
+obj
+Debug
+Release
+Logs
+CVS
+_ReSharper.*
+~$*.*
+*.suo
+*.user
+*.bak
+*.orig
+*.tmp
+*.Publish.xml
+*.moles
+_ReSharper
